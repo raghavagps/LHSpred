@@ -22,6 +22,9 @@ preprocessing and scaling approaches to clean the dataset, different classifiers
 applied to this dataset, and obtained the highest accuracy of 88.52 percent and
 Roc AUC of 88.74 percent by applying Random forest over the test data.
 
+# Zenodo
+https://doi.org/10.5281/zenodo.20034389
+
 # Documentation
 One can find out more about the machine learning algorithms used to predict the likeliness of cardiovascular disease in the https://github.com/shubham20315/Prediction-of-likeliness-of-cardiovascular-disease-using-machine-learning-algorithms/blob/main/Heart%20Stroke%20Prediction.pdf and you can find out our working model in a mobile application  at https://github.com/shubham20315/Prediction-of-likeliness-of-cardiovascular-disease-using-machine-learning-algorithms/blob/main/Heart-Stroke-Prediction-app.apk
 
